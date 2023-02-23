@@ -4,11 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "emuto": "^1.28.0"
+    "emuto": "git+https://github.com/samooth/emuto"
   },
   "devDependencies": {
     "jest": "^23.6.0",
-    "semantic-release": "^15.12.1",
+    "semantic-release": "^19.0.1",
     "travis-deploy-once": "^5.0.9"
   },
   "scripts": {
